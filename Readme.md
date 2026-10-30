@@ -3,7 +3,8 @@
 1) "Bingogenerator.exe" - allt Du behöver i windows.
 2) "Bingo portable på plats.zip" - packa upp och kör .bat-fil för att skapa en portabel .exe-fil. Kräver python på datorn
 3) "bingoPy oGUI.zip" - packa upp och installera i Windows fån en .batfil, Kräver pyton på datorn.
-4) "bingo_generator.py"- körs i python                         
+4) "bingo_generator.py"- körs i python
+5) "index.html" - kör via webben                   
 
 Grafiskt program som skapar bingospelplaner som PDF (6 spelplaner per liggande A4,
 9 x 3 rutor, varje siffra 1-90 exakt en gång per A4).
